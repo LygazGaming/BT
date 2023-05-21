@@ -1,0 +1,8 @@
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.5\bin\Debug\Buoi2.5.exe.config
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.5\bin\Debug\Buoi2.5.exe
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.5\bin\Debug\Buoi2.5.pdb
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.5\obj\Debug\Buoi2.5.csproj.AssemblyReference.cache
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.5\obj\Debug\Buoi2.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.5\obj\Debug\Buoi2.5.csproj.CoreCompileInputs.cache
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.5\obj\Debug\Buoi2.5.exe
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.5\obj\Debug\Buoi2.5.pdb

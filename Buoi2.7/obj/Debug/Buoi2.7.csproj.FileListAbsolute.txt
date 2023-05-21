@@ -1,0 +1,16 @@
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.7\bin\Debug\Buoi2.7.exe.config
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.7\bin\Debug\Buoi2.7.exe
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.7\bin\Debug\Buoi2.7.pdb
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.csproj.AssemblyReference.cache
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.csproj.SuggestedBindingRedirects.cache
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.csproj.CoreCompileInputs.cache
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.exe
+C:\Users\LongSeaGamer\Desktop\New folder\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.pdb
+D:\Tài Liệu Học Tập\22DH114616_NguyenVanLong\22DH114616_NguyenVanLong\Buoi2.7\bin\Debug\Buoi2.7.exe.config
+D:\Tài Liệu Học Tập\22DH114616_NguyenVanLong\22DH114616_NguyenVanLong\Buoi2.7\bin\Debug\Buoi2.7.exe
+D:\Tài Liệu Học Tập\22DH114616_NguyenVanLong\22DH114616_NguyenVanLong\Buoi2.7\bin\Debug\Buoi2.7.pdb
+D:\Tài Liệu Học Tập\22DH114616_NguyenVanLong\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.csproj.AssemblyReference.cache
+D:\Tài Liệu Học Tập\22DH114616_NguyenVanLong\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Học Tập\22DH114616_NguyenVanLong\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Học Tập\22DH114616_NguyenVanLong\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.exe
+D:\Tài Liệu Học Tập\22DH114616_NguyenVanLong\22DH114616_NguyenVanLong\Buoi2.7\obj\Debug\Buoi2.7.pdb

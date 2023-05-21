@@ -1,0 +1,8 @@
+C:\Users\LongSeaGamer\source\repos\22DH114616_NguyenVanLong\Buoi6.3\bin\Debug\Buoi6.3.exe.config
+C:\Users\LongSeaGamer\source\repos\22DH114616_NguyenVanLong\Buoi6.3\bin\Debug\Buoi6.3.exe
+C:\Users\LongSeaGamer\source\repos\22DH114616_NguyenVanLong\Buoi6.3\bin\Debug\Buoi6.3.pdb
+C:\Users\LongSeaGamer\source\repos\22DH114616_NguyenVanLong\Buoi6.3\obj\Debug\Buoi6.3.csproj.AssemblyReference.cache
+C:\Users\LongSeaGamer\source\repos\22DH114616_NguyenVanLong\Buoi6.3\obj\Debug\Buoi6.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LongSeaGamer\source\repos\22DH114616_NguyenVanLong\Buoi6.3\obj\Debug\Buoi6.3.csproj.CoreCompileInputs.cache
+C:\Users\LongSeaGamer\source\repos\22DH114616_NguyenVanLong\Buoi6.3\obj\Debug\Buoi6.3.exe
+C:\Users\LongSeaGamer\source\repos\22DH114616_NguyenVanLong\Buoi6.3\obj\Debug\Buoi6.3.pdb
